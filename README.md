@@ -4,9 +4,7 @@
 
 ---
 
-🔗 **Guide complet :**  
-https://github.com/hackerstchad/BGP/blob/main/GUIDE_BGP_WINDOWS.md
-
+➡️ **[ACCÉDER AU GUIDE BGP WINDOWS](https://github.com/hackerstchad/BGP/blob/main/GUIDE_BGP_WINDOWS.md)**
 
 
 ## Table des matières
