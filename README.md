@@ -1,14 +1,6 @@
 # 🌐 BGP — Border Gateway Protocol
 
-```text
-     ____  ____  ____
-    | __ )| __ )|  _ \
-    |  _ \\|  _ \\| |_) |
-    | |_) | |_) |  __/
-    |____/|____/|_|
 
-    The Routing Protocol of the Internet
-```
 
 ![BGP Banner](assets/bgp_banner.png)
 
@@ -461,4 +453,6 @@ BGP est bien plus qu'un simple protocole de routage : c'est le **système nerveu
 
 ---
 
-*README généré pour le projet BGP — The Routing Protocol of the Internet.*
+Auteur 
+
+HACKERS_TCHAD
