@@ -1,12 +1,10 @@
 # 🌐 BGP — Border Gateway Protocol
 
-
-
-![BGP Banner](assets/bgp_banner.png)
+<img width="1248" height="832" alt="OIG2" src="https://github.com/user-attachments/assets/35e8d549-0405-4690-8d41-d99e061a019f" />
 
 ---
 
-## 📜 Table des matières
+## Table des matières
 
 1. [Qu'est-ce que BGP ?](#quest-ce-que-bgp)
 2. [Historique et créateurs](#historique-et-créateurs)
