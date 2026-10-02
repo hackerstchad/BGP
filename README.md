@@ -4,6 +4,10 @@
 
 ---
 
+https://github.com/hackerstchad/BGP/blob/main/GUIDE_BGP_WINDOWS.md
+<img width="1248" height="832" alt="OIG2 tSS3uerrxcGsKO" src="https://github.com/user-attachments/assets/d4eb3c6f-f819-4227-a25f-2ed7d15e37d2" />
+
+
 ## Table des matières
 
 1. [Qu'est-ce que BGP ?](#quest-ce-que-bgp)
